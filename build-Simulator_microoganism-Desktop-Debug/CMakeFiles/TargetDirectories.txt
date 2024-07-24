@@ -1,0 +1,5 @@
+/home/ssv/code/qtcreator/build-Simulator_microoganism-Desktop-Debug/CMakeFiles/Simulator_microoganism.dir
+/home/ssv/code/qtcreator/build-Simulator_microoganism-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ssv/code/qtcreator/build-Simulator_microoganism-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ssv/code/qtcreator/build-Simulator_microoganism-Desktop-Debug/CMakeFiles/Simulator_microoganism_autogen_timestamp_deps.dir
+/home/ssv/code/qtcreator/build-Simulator_microoganism-Desktop-Debug/CMakeFiles/Simulator_microoganism_autogen.dir

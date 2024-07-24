@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Simulator_microoganism",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Simulator_microoganism::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simulator_microoganism-Debug-8c7488c5f0b151c1250b.json",
+					"name" : "Simulator_microoganism",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simulator_microoganism_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simulator_microoganism_autogen-Debug-c5f8b2ba870e0890eb6f.json",
+					"name" : "Simulator_microoganism_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Simulator_microoganism_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simulator_microoganism_autogen_timestamp_deps-Debug-e75730df45b637303e02.json",
+					"name" : "Simulator_microoganism_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ssv/code/qtcreator/build-Simulator_microoganism-Desktop-Debug",
+		"source" : "/home/ssv/code/qtcreator/Simulator_microoganism"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
